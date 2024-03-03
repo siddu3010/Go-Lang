@@ -1,11 +1,14 @@
 package main
-// import "fmt"
-// func main() {
-// var a =15
-// fmt.Printf("Octal: %o\n",a)
-// fmt.Printf("Hexdecimal: %x\n",a)
-// fmt.Printf("Octal: %b\n",a)
+// import(
+// 	"fmt"
+// 	// "time"
+// )
 
-// fmt.Printf("Expression 15 == 0xF: %t\n",15 == 0xF)
-// fmt.Printf("Expression 15 == 0xF: %T\n",15 == 0xF)
+// func  calculate(x int , y int)(int,int)  {
+// 	return x+y , x-y 	
+// }
+
+// func main () {
+// 	sum, difference := calculate(10,20)
+// 	fmt.Printf("Additionis %d\n Subtraction is %d\n",sum,difference)
 // }
