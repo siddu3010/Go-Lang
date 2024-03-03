@@ -108,7 +108,7 @@ func main(){
 	var y float64 = float64(x)
 	var z uint = uint(y)
 
-	fmt.Printf("x = %T",x)
-	fmt.Printf("y = %T",y)
-	fmt.Printf("z = %T",z)
+	fmt.Printf("x = %T\n",x)
+	fmt.Printf("y = %T\n",y)
+	fmt.Printf("z = %T\n",z)
 }
